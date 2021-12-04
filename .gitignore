@@ -1,0 +1,7 @@
+.env
+node_modules
+vendor
+*.pyc
+*.log
+!import.log
+/debug.log
